@@ -80,7 +80,7 @@
 	  "Corps": [
         {
           "name": "Sith Empire Troopers",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534556029/E6208851E6A26BF10BCC3DFF4522D47B19C39573/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534891306/2BA90178941CF41C13DA0B9C90357E3AF6AA8FD9/",
           "size": "small",
           "type": "Trooper",
           "points": 48,
@@ -110,6 +110,62 @@
             }
           ]
         }
+      ],
+	  "Special Forces": [
+        {
+          "name": "Sith Empire Commandos",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534891306/2BA90178941CF41C13DA0B9C90357E3AF6AA8FD9/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 80,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 2,
+			"Comms": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024260308213/15A8FC12EB8192B2272D639557ED336BAF9718BE/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260606126/9430D9F19B59E68648F5261C8162A66C253EDDC0/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024260446504/E46DFA85E16AF894A710D4F6714BA84BC9C6BBB3/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260606126/9430D9F19B59E68648F5261C8162A66C253EDDC0/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024261188154/B23F2669D0C619618D89D2BCF50E701363CDB26B/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260988667/8B8E27DFEDD6DEBA4EFABD6E738D3B6AC3E925AB/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024261155036/D5997D5F703F00DB00BB6C2CB1C92B0BB3E4B972/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260988667/8B8E27DFEDD6DEBA4EFABD6E738D3B6AC3E925AB/"
+            }
+          ]
+        },
+	    {
+          "name": "Sith Empire Scouts",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534891306/2BA90178941CF41C13DA0B9C90357E3AF6AA8FD9/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 23,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 1,
+			"Comms": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878956135/77C5F51565475CEB63D9A0A0E97F3616EC17992E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
+            }
+          ]
+        }
       ]
 	}
   },
@@ -128,6 +184,21 @@
     ],
 	"Heavy Weapon": [
 	  {
+        "name": "Major Anri",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534864182/5DC3AD62F9205608CC8A29AF5A6A772AA338E75D/",
+        "points": 32,
+		"leader": true,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Empire Commandos"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824477681546677/855DD1F57D897B360CCA3F12DDB4449E0D116255/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022824477681548557/DB63AB0044B89CB25D50A204A061D535CA20F495/"
+        }
+      },
+	  {
         "name": "DLA-13 Sith Empire Trooper",
         "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534864182/5DC3AD62F9205608CC8A29AF5A6A772AA338E75D/",
         "points": 26,
@@ -137,8 +208,8 @@
           }
         },
         "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879755028/53718ACF3D389983D1CF2630D761DF90121CDA5A/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608879744395/158047D5CFC30AFE6A2A50F64A2DA8F7BD4073B4/"
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824477681546677/855DD1F57D897B360CCA3F12DDB4449E0D116255/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022824477681548557/DB63AB0044B89CB25D50A204A061D535CA20F495/"
         }
       },
 	  {
@@ -168,7 +239,35 @@
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608881242939/0D60224C8880F4609ADFC4B901EC92EEA545B235/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608881243790/F0D722D6703135FDF3BB2B7F3105FCAA49DB5284/"
         }
+      },
+	  {
+        "name": "MR-36 Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534864109/C0DAB1F5FA08896AB029FB656A90B2EF5ACE8DE5/",
+        "points": 36,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Empire Commandos"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024260532062/6D98D9E28283E02F34B203849A11F420D1A1C99E/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260606126/9430D9F19B59E68648F5261C8162A66C253EDDC0/"
+        }
+      },
+	  {
+        "name": "DLA-13x Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534864109/C0DAB1F5FA08896AB029FB656A90B2EF5ACE8DE5/",
+        "points": 28,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Empire Scouts"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879755028/53718ACF3D389983D1CF2630D761DF90121CDA5A/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608879744395/158047D5CFC30AFE6A2A50F64A2DA8F7BD4073B4/"
+        }
       }
     ]
-	}
+}
 }
