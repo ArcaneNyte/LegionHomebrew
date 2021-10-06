@@ -114,7 +114,7 @@
 	  "Special Forces": [
         {
           "name": "Sith Empire Commandos",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534891306/2BA90178941CF41C13DA0B9C90357E3AF6AA8FD9/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761535743094/A3FD1338CB7ECB5028BC69A339963260C91383A8/",
           "size": "small",
           "type": "Trooper",
           "points": 80,
@@ -147,7 +147,7 @@
         },
 	    {
           "name": "Sith Empire Scouts",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534891306/2BA90178941CF41C13DA0B9C90357E3AF6AA8FD9/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761535741527/92CD44CE1CAA6C74B2BBE07B09172398425924A9/",
           "size": "small",
           "type": "Trooper",
           "points": 23,
@@ -185,7 +185,7 @@
 	"Heavy Weapon": [
 	  {
         "name": "Major Anri",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534864182/5DC3AD62F9205608CC8A29AF5A6A772AA338E75D/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761535742986/D522FFE9D9DADD596042C6F2B5415C5CA52F6542/",
         "points": 32,
 		"leader": true,
         "restrictions": {
@@ -242,7 +242,7 @@
       },
 	  {
         "name": "MR-36 Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534864109/C0DAB1F5FA08896AB029FB656A90B2EF5ACE8DE5/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761535743041/3FE14695D710E2EE650EA5E5A4D2CA7500F4F681/",
         "points": 36,
         "restrictions": {
           "include": {
@@ -256,7 +256,7 @@
       },
 	  {
         "name": "DLA-13x Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534864109/C0DAB1F5FA08896AB029FB656A90B2EF5ACE8DE5/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761535656998/573D2395DB0BD76B84616AB43BFD44C1F02CC583/",
         "points": 28,
         "restrictions": {
           "include": {
@@ -269,5 +269,5 @@
         }
       }
     ]
-}
+	}
 }
