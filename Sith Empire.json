@@ -125,6 +125,50 @@
           }
         }
       }
+    ],
+	"Heavy Weapon": [
+	  {
+        "name": "DLA-13 Sith Empire Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534864182/5DC3AD62F9205608CC8A29AF5A6A772AA338E75D/",
+        "points": 26,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Empire Troopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879755028/53718ACF3D389983D1CF2630D761DF90121CDA5A/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608879744395/158047D5CFC30AFE6A2A50F64A2DA8F7BD4073B4/"
+        }
+      },
+	  {
+        "name": "X-115 Sith Empire Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534864234/D8FC1B288D6B9EC1F11C9DBDB14776B4D6D0C820/",
+        "points": 23,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Empire Troopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608881149656/B3DDF1010726FDC59F24ACC4375251D7919F6135/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608881150442/1B5AD6129AC8D180D97CFE93ACE1DC7E49119F04/"
+        }
+      },
+	  {
+        "name": "Concussion Blade Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534864109/C0DAB1F5FA08896AB029FB656A90B2EF5ACE8DE5/",
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Empire Troopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608881242939/0D60224C8880F4609ADFC4B901EC92EEA545B235/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608881243790/F0D722D6703135FDF3BB2B7F3105FCAA49DB5284/"
+        }
+      }
     ]
-}
+	}
 }
