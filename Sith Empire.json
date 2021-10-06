@@ -78,6 +78,40 @@
         }
       ]
     }
+	  "Corps": [
+        {
+          "name": "Sith Empire Troopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534556029/E6208851E6A26BF10BCC3DFF4522D47B19C39573/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 48,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878956135/77C5F51565475CEB63D9A0A0E97F3616EC17992E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878876739/426739787DA319406B5B04B99BBF32DC10D657E9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879652119/A6E9D1CC7FCF34BF844B1847503E21E60C007A21/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878917211/A6984255B6241D8A292F4785C28A87E134354C9A/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
+            }
+          ]
+        }
+      ],
   },
   "upgrades": {
     "Armament": [
