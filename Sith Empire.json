@@ -203,11 +203,10 @@
           "upgrades": {
             "Heavy Weapon": 1,
             "Personnel": 1,
-            "Gear": 1,
+            "Gear": 2,
             "Grenades": 1,
-			"Training": 1,
-			"Comms": 1,
-			"Gear": 1
+	    "Training": 1,
+	    "Comms": 1
           },
           "minis": [
             {
