@@ -5,7 +5,7 @@
         {
           "name": "Moff Cyrus Krell",
           "title": "Merciless General",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1613968358886379799/B68C966FA7FE422ED09CFCE8264BC6F5EA703C1F/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250372/20D2160EA36F5A2A8EB07FFD29B42B6814D8EFC2/",
           "size": "small",
           "type": "Trooper",
           "points": 100,
@@ -23,17 +23,17 @@
           "commands": [
             {
               "name": "Artillery Barrage",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761533892470/530AFA57BEE193FFEAF0C2823A6C08C0D1635344/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250176/E23504ECF3EB062F4771F797976A7763DB7A393B/",
               "pip": 1
             },
             {
               "name": "The Price of Victory",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761533892540/1A9B421619170E971A5D45DC55B4651DBFF05466/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250241/A2BF05CDBC7C3C93EE10C9796F8FD287D2CF7B73/",
               "pip": 2
             },
             {
               "name": "Loyalty Through Conquest",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761533892592/D330D2D156F8A90FB878A0477598C718AA645888/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250319/2F6F48434A87E440AFABACFF3FC31ECDDAE052C0/",
               "pip": 3
             }
           ]
@@ -41,7 +41,7 @@
         {
           "name": "Captain Shale",
           "title": "Ruthless Enforcer",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534449532/349B19D78C7E9AA77B69AF85ED28F8759080C95A/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536221678/59D2613C000876EDFED82300FFA4196D776AD34C/",
           "size": "small",
           "type": "Trooper",
           "points": 100,
@@ -61,18 +61,133 @@
           "commands": [
             {
               "name": "You Will Not Escape",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534450312/2B00DDFBA1D9DDF151CD3EFE5B9A6953CAE4B0CD/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222033/2F6D09F4CA899767D694C5C3FDE18E6E82F1DE7D/",
               "pip": 1
             },
             {
               "name": "So Predictable",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534450370/6A9D6D56E6D94993AC64E99FB8F82CBB573B9EBB/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222075/B061761A0A571EAD1E5399A6F60986C8C9243F68/",
               "pip": 2
             },
             {
               "name": "Authorizing Deadly Force",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534450422/FFB2269CCE44C2906CB2E4BD287E233677E298A4/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222125/D50E4CF9E93955C5F151DF8C4F4538595090EBFE/",
               "pip": 3
+            }
+          ]
+        },
+		{
+          "name": "Darth Seire",
+          "title": "The Empire's Wrath",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536221678/59D2613C000876EDFED82300FFA4196D776AD34C/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 200,
+          "speed": 2,
+          "upgrades": {
+			"Force": 2,
+            "Command": 2,
+			"Training": 1,
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925773451/29E9C01AADB63D0F11307AC6DF9FE7F0C29178CD/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804925773688/AA999386C07D280297E4E55F78BE951C22CC4765/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Inexorable",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222033/2F6D09F4CA899767D694C5C3FDE18E6E82F1DE7D/",
+              "pip": 1
+            },
+            {
+              "name": "So Predictable",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222075/B061761A0A571EAD1E5399A6F60986C8C9243F68/",
+              "pip": 2
+            },
+            {
+              "name": "Authorizing Deadly Force",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222125/D50E4CF9E93955C5F151DF8C4F4538595090EBFE/",
+              "pip": 3
+            }
+          ]
+		},
+		{
+          "name": "Darth Nox",
+          "title": "Heir to Kallig",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536221678/59D2613C000876EDFED82300FFA4196D776AD34C/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 175,
+          "speed": 2,
+          "upgrades": {
+			"Force": 2,
+            "Command": 1,
+			"Training": 2,
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061823163250038/32C72D2D0F766BFD34626E6A8944954C50CC0D77/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061823163250299/7A3E3550E4630C1BF03CF91847C63638AB684434/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "The Force Shall Free Me",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222033/2F6D09F4CA899767D694C5C3FDE18E6E82F1DE7D/",
+              "pip": 1
+            },
+            {
+              "name": "So Predictable",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222075/B061761A0A571EAD1E5399A6F60986C8C9243F68/",
+              "pip": 2
+            },
+            {
+              "name": "Dark Council Elite",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222125/D50E4CF9E93955C5F151DF8C4F4538595090EBFE/",
+              "pip": 3
+            }
+          ]
+        },
+		{
+          "name": "Sith Empire Officer",
+          "title": "Callous Superior",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113321599/43ADC80E3D32DCDD8CC6C47972B9DCC5EB981EA8/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 50,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+			"Gear": 1,
+          },
+          "minis": [
+            {
+			  "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541565411/F5F84397A9353DAD3D913F34E49812C1C895DA65/",
+			  "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541565593/F948637FEE70F52681A5A3C49C0E00EF25471AC1/"
+            }
+          ]
+        }
+      ],
+	  "Operative": [
+        {
+          "name": "Agent Thrant",
+		  "title": "Cipher Nine",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534891306/2BA90178941CF41C13DA0B9C90357E3AF6AA8FD9/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 125,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Armament": 1,
+            "Gear": 1,
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696984835715973/AEB3B9B8174C7448DCFD38C40F9C9990E74E0269/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696984835716106/9118C9246EAD618E439F629EF290DA15D37BB756/"
             }
           ]
         }
@@ -152,6 +267,7 @@
           "type": "Trooper",
           "points": 23,
           "speed": 2,
+		  "heavyWeaponTeam": true,
           "upgrades": {
             "Heavy Weapon": 1,
             "Training": 1,
@@ -165,6 +281,84 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
             }
           ]
+        },
+		{
+          "name": "Sith Acolytes",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113621891/13F43434CFAB852112A841163A8DADFE34163CC7/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 80,
+          "speed": 2,
+		  "heavyWeaponTeam": true,
+          "upgrades": {
+            "Heavy Weapon": 1,
+			"Force": 1,
+            "Training": 1,
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885765166/7529CEF9341B9D8E16B122B2DBBB6CA0C439F3E1/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608885695776/F5A3AA78554B8F3CB86314E552D94D65C0080F0C/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885733918/43DD4CBAEAD756429F47BAF24133A3D97CEA9DA6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608885695776/F5A3AA78554B8F3CB86314E552D94D65C0080F0C/"
+            }
+          ]
+        },
+		{
+          "name": "Sith Honor Guard",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761535762184/E95173BFD47EB4381C979BD9394610E988C3F8A8/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 80,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 2,
+			"Comms": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541911959/D583DF28D96DBDF2F1FE9FB6AAB25809774C46EF/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541912060/182C0DD6D66EC8DEF075135B872DE26364010E27/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541912172/73A36C525BC98DD1F4EC7953943FE5F660B0E9D8/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541912060/182C0DD6D66EC8DEF075135B872DE26364010E27/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541912365/CB3109223BD5A017AA159066A3B17002B8892047/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541912060/182C0DD6D66EC8DEF075135B872DE26364010E27/"
+            }
+          ]
+        }		
+      ],
+	  "Support": [
+        {
+          "name": "Sith War Droid Mk-1",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113337774/4E94609B7A4CD20FD554356EFEDEE620584F82C8/",
+          "size": "medium",
+          "type": "Ground Vehicle",
+          "points": 80,
+          "speed": 2,
+          "upgrades": {
+		    "Comms": 1,
+			"Generator": 1,
+            "Programming": 1,
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697620253289667/85745104AA0C94936FA804B87EA1A61938161B79/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697620253289816/7245F236A07C662A6AA471AA89E323417AB7D604/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697620253290925/09820A879BC9DB027D438A7F0051F90D558A3D97/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697620253289816/7245F236A07C662A6AA471AA89E323417AB7D604/"
+            }
+          ]
         }
       ]
 	}
@@ -174,10 +368,20 @@
       {
         "name": "Shale's Electrobaton",
         "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534450463/156BE95CD1C515F2F8F3E4D852DF6288ACB3F98E/",
-        "points": 15,
+        "points": 10,
         "restrictions": {
           "include": {
             "unit": ["Captain Shale"]
+          }
+        }
+      },
+	  {
+        "name": "E-11 Sniper Rifle",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534450463/156BE95CD1C515F2F8F3E4D852DF6288ACB3F98E/",
+        "points": 15,
+        "restrictions": {
+          "include": {
+            "unit": ["Agent Thrant"]
           }
         }
       }
@@ -267,7 +471,151 @@
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879755028/53718ACF3D389983D1CF2630D761DF90121CDA5A/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608879744395/158047D5CFC30AFE6A2A50F64A2DA8F7BD4073B4/"
         }
+      },
+	  {
+        "name": "Lord Adraas",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113621977/2C0FC4D78B6748A7AFC7B3627807D22F8CB492BA/",
+        "points": 32,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Acolytes"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885833891/AE635515661DD84861ADF0CF4FC48052FD3DEF87/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608885695776/F5A3AA78554B8F3CB86314E552D94D65C0080F0C/"
+        }
+      },
+	  {
+        "name": "Sith Warrior",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113622032/4B4F2F924C8576AE12D6C4A46E5F83C7291C2AE2/",
+        "points": 30,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Acolytes"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885796271/427E4FBA584A22712C84414761D3EEBB1AE714E7/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608885695776/F5A3AA78554B8F3CB86314E552D94D65C0080F0C/"
+        }
+      },
+	  {
+        "name": "Sith Inquisitor",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113621944/79EC65041F3726929217EA93B5835E79D247CCD9/",
+        "points": 34,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Acolytes"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061823163250038/32C72D2D0F766BFD34626E6A8944954C50CC0D77/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061823163250299/7A3E3550E4630C1BF03CF91847C63638AB684434/"
+        }
+      },	  
+    ],
+	"Personnel": [
+      {
+        "name": "Sith Empire Officer",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113091706/AEB9D7CC6A10EFA0E41373CBDDA88077674DED6F/",
+		"mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541565411/F5F84397A9353DAD3D913F34E49812C1C895DA65/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541565593/F948637FEE70F52681A5A3C49C0E00EF25471AC1/"
+		},
+        "points": 16,
+        "leader": true,
+        "restrictions": {
+          "include": {
+            "faction": ["Sith Empire"]
+          }
+        }
+      },
+	  {
+        "name": "Sith Empire Comms Technician",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113091639/113556DAC26F86807FACF1ED93D12FB5A7764B92/",
+		"mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/949599512594268417/62CC1D5BCBD1EE294C72781B03AB972B3ED5AD12/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/949599512594268526/CA2596C0B2D7DF68D794B2A7880F34B5459F1206/"
+        },
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "faction": ["Sith Empire"]
+          }
+        }
+      },
+	  {
+        "name": "X2-C3 Astromech Droid",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113091599/BCE75E7A399C8F310420D6BE56104008AD09E45E/",
+		"mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/949599512594492173/DDA1CC3AEEC3D5ADB3B04F35125EE8A6FB7EB93A/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/949599512594267919/F44B2C3C810757626C7A4A61DAA7F2BC2BEECFC6/"
+        },
+        "points": 8,
+        "restrictions": {
+          "include": {
+            "faction": ["Sith Empire"]
+          }
+        }
+      },
+	  {
+        "name": "M3-M1 Medical Droid",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113091667/238FBE49325A4860330A87AC0B0E698D96578480/",
+		"mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/949599512594268065/7B4874981CECB7BB80D5BC54F60F1939B9A9DAB1/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/949599512594268174/00246DE6DCE285206330C43B8049B19FFDF5BB41/"
+        },
+        "points": 18,
+        "restrictions": {
+          "include": {
+            "faction": ["Sith Empire"]
+          }
+        }
+      },
+	  {
+        "name": "Sith Empire Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113098104/FC2E8F3C7EA19AC19DD333C8ADC7492C12416506/",
+		"mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878992636/D833E26E44A7763FAEFBE2430390376F9160E931/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
+        },
+        "points": 8,
+        "restrictions": {
+          "include": {
+            "faction": ["Sith Empire Troopers"]
+          }
+        }
+      },
+	  {
+        "name": "Sith Empire Trooper Specialist",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113098162/8BEB64FDFD2FD84702FF30FE0E3223323AECBBC0/",
+		"mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878917211/A6984255B6241D8A292F4785C28A87E134354C9A/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
+        },
+        "points": 12,
+        "restrictions": {
+          "include": {
+            "faction": ["Sith Empire Troopers"]
+          }
+        }
+      },
+	  {
+        "name": "Sith Empire Trooper Captain",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113098042/A39252EEC3D45D3E07AFC8159118EFEA0BBB20D5/",
+		"mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878956135/77C5F51565475CEB63D9A0A0E97F3616EC17992E/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
+        },
+        "points": 12,
+        "leader": true,
+        "restrictions": {
+          "include": {
+            "faction": ["Sith Empire Troopers"]
+          }
+        }
       }
-    ]
+	]
 	}
 }
