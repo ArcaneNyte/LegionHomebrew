@@ -2,80 +2,6 @@
   "units": {
     "Sith Empire": {
       "Commander": [
-        {
-          "name": "Moff Cyrus Krell",
-          "title": "Merciless General",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250372/20D2160EA36F5A2A8EB07FFD29B42B6814D8EFC2/",
-          "size": "small",
-          "type": "Trooper",
-          "points": 100,
-          "speed": 2,
-          "upgrades": {
-            "Command": 3,
-            "Gear": 1
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821664192111404/0E625C7A4614D3BE5DF4DF9D78BA558C2B78803C/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821664192111727/770A7C77419D31361A4E7DF14655D4339B5333BE/"
-            }
-          ],
-          "commands": [
-            {
-              "name": "Artillery Barrage",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250176/E23504ECF3EB062F4771F797976A7763DB7A393B/",
-              "pip": 1
-            },
-            {
-              "name": "The Price of Victory",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250241/A2BF05CDBC7C3C93EE10C9796F8FD287D2CF7B73/",
-              "pip": 2
-            },
-            {
-              "name": "Loyalty Through Conquest",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250319/2F6F48434A87E440AFABACFF3FC31ECDDAE052C0/",
-              "pip": 3
-            }
-          ]
-        },
-        {
-          "name": "Captain Shale",
-          "title": "Ruthless Enforcer",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536221678/59D2613C000876EDFED82300FFA4196D776AD34C/",
-          "size": "small",
-          "type": "Trooper",
-          "points": 100,
-          "speed": 2,
-          "upgrades": {
-            "Command": 1,
-			"Training": 1,
-			"Armament": 1,
-            "Gear": 1
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925773451/29E9C01AADB63D0F11307AC6DF9FE7F0C29178CD/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804925773688/AA999386C07D280297E4E55F78BE951C22CC4765/"
-            }
-          ],
-          "commands": [
-            {
-              "name": "You Will Not Escape",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222033/2F6D09F4CA899767D694C5C3FDE18E6E82F1DE7D/",
-              "pip": 1
-            },
-            {
-              "name": "So Predictable",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222075/B061761A0A571EAD1E5399A6F60986C8C9243F68/",
-              "pip": 2
-            },
-            {
-              "name": "Authorizing Deadly Force",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222125/D50E4CF9E93955C5F151DF8C4F4538595090EBFE/",
-              "pip": 3
-            }
-          ]
-        },
 		{
           "name": "Darth Seire",
           "title": "The Empire's Wrath",
@@ -150,6 +76,80 @@
             }
           ]
         },
+        {
+          "name": "Moff Cyrus Krell",
+          "title": "Merciless General",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250372/20D2160EA36F5A2A8EB07FFD29B42B6814D8EFC2/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Command": 3,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821664192111404/0E625C7A4614D3BE5DF4DF9D78BA558C2B78803C/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821664192111727/770A7C77419D31361A4E7DF14655D4339B5333BE/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Artillery Barrage",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250176/E23504ECF3EB062F4771F797976A7763DB7A393B/",
+              "pip": 1
+            },
+            {
+              "name": "The Price of Victory",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250241/A2BF05CDBC7C3C93EE10C9796F8FD287D2CF7B73/",
+              "pip": 2
+            },
+            {
+              "name": "Loyalty Through Conquest",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536250319/2F6F48434A87E440AFABACFF3FC31ECDDAE052C0/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Captain Shale",
+          "title": "Ruthless Enforcer",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536221678/59D2613C000876EDFED82300FFA4196D776AD34C/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+			"Training": 1,
+            "Gear": 1,
+			"Armament": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925773451/29E9C01AADB63D0F11307AC6DF9FE7F0C29178CD/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804925773688/AA999386C07D280297E4E55F78BE951C22CC4765/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "You Will Not Escape",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222033/2F6D09F4CA899767D694C5C3FDE18E6E82F1DE7D/",
+              "pip": 1
+            },
+            {
+              "name": "So Predictable",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222075/B061761A0A571EAD1E5399A6F60986C8C9243F68/",
+              "pip": 2
+            },
+            {
+              "name": "Authorizing Deadly Force",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222125/D50E4CF9E93955C5F151DF8C4F4538595090EBFE/",
+              "pip": 3
+            }
+          ]
+        },
 		{
           "name": "Sith Empire Officer",
           "title": "Callous Superior",
@@ -181,8 +181,8 @@
           "speed": 2,
           "upgrades": {
             "Training": 2,
-            "Armament": 1,
-            "Gear": 1
+            "Gear": 1,
+            "Armament": 1
           },
           "minis": [
             {
@@ -204,7 +204,10 @@
             "Heavy Weapon": 1,
             "Personnel": 1,
             "Gear": 1,
-            "Grenades": 1
+            "Grenades": 1,
+			"Training": 1,
+			"Comms": 1,
+			"Gear": 1
           },
           "minis": [
             {
@@ -345,17 +348,17 @@
           "points": 80,
           "speed": 2,
           "upgrades": {
+			"Programming": 1,
 		    "Comms": 1,
-			"Generator": 1,
-            "Programming": 1
+			"Generator": 1
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697620253289667/85745104AA0C94936FA804B87EA1A61938161B79/",
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697620253290925/09820A879BC9DB027D438A7F0051F90D558A3D97/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697620253289816/7245F236A07C662A6AA471AA89E323417AB7D604/"
             },
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697620253290925/09820A879BC9DB027D438A7F0051F90D558A3D97/",
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697620253289667/85745104AA0C94936FA804B87EA1A61938161B79/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697620253289816/7245F236A07C662A6AA471AA89E323417AB7D604/"
             }
           ]
