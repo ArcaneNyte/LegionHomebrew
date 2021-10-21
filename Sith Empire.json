@@ -115,7 +115,7 @@
         {
           "name": "Captain Shale",
           "title": "Ruthless Enforcer",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536221678/59D2613C000876EDFED82300FFA4196D776AD34C/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1754708013676182548/D82D4AC9E13BB2D870BA1FE9166AB9C80087DDAA/",
           "size": "small",
           "type": "Trooper",
           "points": 100,
@@ -795,5 +795,5 @@
         "pip": 3
       }
      ]
-    }
+	}
 }
