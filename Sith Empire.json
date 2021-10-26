@@ -42,7 +42,7 @@
 		{
           "name": "Darth Nox",
           "title": "Heir to Kallig",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1731062863113841016/293EB29B700F3E1FC429F4BE3D9140FE0BCB4277/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1754708013681482736/C3490E57095691481EE987A578CDBF65AF4C2C80/",
           "size": "small",
           "type": "Trooper",
           "points": 175,
@@ -135,7 +135,7 @@
           "commands": [
             {
               "name": "You Will Not Escape",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222033/2F6D09F4CA899767D694C5C3FDE18E6E82F1DE7D/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1754708013676246861/7DE8B17837BEC398B0463038A433B258B1111239/",
               "pip": 1
             },
             {
@@ -213,7 +213,7 @@
 	  "Corps": [
         {
           "name": "Sith Empire Troopers",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761534891306/2BA90178941CF41C13DA0B9C90357E3AF6AA8FD9/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1754708429810831136/E19A005DDC641C53BC19BB1B3F69606AD8DD98BC/",
           "size": "small",
           "type": "Trooper",
           "points": 48,
@@ -499,7 +499,7 @@
       },
 	  {
         "name": "LRRL-75 Sith Empire Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1754708013676169766/19E47382CEDA4C03BF9524AC32AB6A4C9A67A21F/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1754708429810832685/E82690DE4777B809F3D26C951AAB18859D77AC39/",
         "points": 21,
         "restrictions": {
           "include": {
