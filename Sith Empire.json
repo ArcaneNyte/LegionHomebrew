@@ -282,7 +282,9 @@
         },
 	    {
           "name": "Sith Empire Scouts",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1731062761535741527/92CD44CE1CAA6C74B2BBE07B09172398425924A9/",
+		  "displayName": "Sith Empire Scouts (Strike Team)",
+          "title": "Strike Team",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1754708429810922214/5148D49C96873B8948419E9D524A987B3C280435/",
           "size": "small",
           "type": "Trooper",
           "points": 23,
