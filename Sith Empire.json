@@ -4,7 +4,7 @@
 			"Commander": [{
 					"name": "Darth Seire",
 					"title": "The Empire's Wrath",
-					"image": "http://cloud-3.steamusercontent.com/ugc/1731062761536221678/59D2613C000876EDFED82300FFA4196D776AD34C/",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861662/3041F98AC28DECC2B66D4C90B76AA0BC102A0B2B/",
 					"size": "small",
 					"type": "Trooper",
 					"points": 200,
@@ -15,22 +15,22 @@
 						"Training": 1
 					},
 					"minis": [{
-						"mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925773451/29E9C01AADB63D0F11307AC6DF9FE7F0C29178CD/",
-						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804925773688/AA999386C07D280297E4E55F78BE951C22CC4765/"
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1007061823163250038/32C72D2D0F766BFD34626E6A8944954C50CC0D77/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061823163250299/7A3E3550E4630C1BF03CF91847C63638AB684434/"
 					}],
 					"commands": [{
 							"name": "Inexorable",
-							"image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222033/2F6D09F4CA899767D694C5C3FDE18E6E82F1DE7D/",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861568/290F769F5C81154EAB5F42244101E2BFC2F7831A/",
 							"pip": 1
 						},
 						{
-							"name": "So Predictable",
-							"image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222075/B061761A0A571EAD1E5399A6F60986C8C9243F68/",
+							"name": "I am Sith, and I Endure",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
 							"pip": 2
 						},
 						{
-							"name": "Authorizing Deadly Force",
-							"image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222125/D50E4CF9E93955C5F151DF8C4F4538595090EBFE/",
+							"name": "Unshackled Rage",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861634/154797D1AC62672734DE5D8C69E0FDFA3D852FC3/",
 							"pip": 3
 						}
 					]
@@ -54,17 +54,17 @@
 					}],
 					"commands": [{
 							"name": "The Force Shall Free Me",
-							"image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222033/2F6D09F4CA899767D694C5C3FDE18E6E82F1DE7D/",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811292770/55C21DA340B77E4BE71A8890735DFA56821EE8CF/",
 							"pip": 1
 						},
 						{
-							"name": "So Predictable",
-							"image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222075/B061761A0A571EAD1E5399A6F60986C8C9243F68/",
+							"name": "Murder and Mayhem",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811292804/847EF2C1A1AAFBB685042CD7ADD0A613B54EE7FC/",
 							"pip": 2
 						},
 						{
 							"name": "Dark Council Elite",
-							"image": "http://cloud-3.steamusercontent.com/ugc/1731062761536222125/D50E4CF9E93955C5F151DF8C4F4538595090EBFE/",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811292836/2C640492E517B339B12F4581EF573D6BCAC8C879/",
 							"pip": 3
 						}
 					]
