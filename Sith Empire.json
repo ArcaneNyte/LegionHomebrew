@@ -8,11 +8,10 @@
           "image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015382/B1EBE08171ABD5A2E0DF0E08439797227473A9DE/",
           "size": "small",
           "type": "Trooper",
-          "alignment": ["Dark"],
           "points": 200,
           "speed": 2,
           "upgrades": {
-			"Force": 2,
+	    "Force": 2,
             "Command": 2
           },
           "minis": [
@@ -48,9 +47,9 @@
           "points": 185,
           "speed": 2,
           "upgrades": {
-			"Force": 2,
+	    "Force": 2,
             "Command": 1,
-			"Training": 1
+	    "Training": 1
           },
           "minis": [
             {
@@ -122,9 +121,9 @@
           "speed": 2,
           "upgrades": {
             "Command": 1,
-			"Training": 1,
+	    "Training": 1,
             "Gear": 1,
-			"Armament": 1
+	    "Armament": 1
           },
           "minis": [
             {
@@ -160,7 +159,7 @@
           "speed": 2,
           "upgrades": {
             "Command": 1,
-			"Gear": 1
+	    "Gear": 1
           },
           "minis": [
             {
@@ -223,8 +222,8 @@
             "Personnel": 1,
             "Gear": 2,
             "Grenades": 1,
-			"Training": 1,
-			"Comms": 1
+	    "Training": 1,
+	    "Comms": 1
           },
           "minis": [
             {
@@ -257,10 +256,10 @@
           "upgrades": {
             "Heavy Weapon": 1,
             "Training": 1,
-			"Comms": 1,
+	    "Comms": 1,
             "Gear": 1,
             "Grenades": 1,
-			"Armament": 1
+	    "Armament": 1
           },
           "minis": [
             {
@@ -290,11 +289,11 @@
           "type": "Trooper",
           "points": 23,
           "speed": 2,
-		  "heavyWeaponTeam": true,
+	  "heavyWeaponTeam": true,
           "upgrades": {
             "Heavy Weapon": 1,
             "Training": 1,
-			"Comms": 1,
+	    "Comms": 1,
             "Gear": 1,
             "Grenades": 1
           },
@@ -312,10 +311,10 @@
           "type": "Trooper",
           "points": 80,
           "speed": 2,
-		  "heavyWeaponTeam": true,
+	  "heavyWeaponTeam": true,
           "upgrades": {
             "Heavy Weapon": 1,
-			"Force": 2,
+	     "Force": 2,
             "Training": 1
           },
           "minis": [
