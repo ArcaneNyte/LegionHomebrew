@@ -1,275 +1,247 @@
 {
-  "units": {
-    "Empire": {
-      "Commander": [
-		{
-          "name": "Storm Tide Commander",
-          "title": "",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015382/B1EBE08171ABD5A2E0DF0E08439797227473A9DE/",
-          "size": "small",
-          "type": "Trooper",
-          "points": 60,
-          "speed": 2,
-          "upgrades": {
-			"Training": 1,
-            "Gear": 1,
-			"Armament": 1
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061823163250038/32C72D2D0F766BFD34626E6A8944954C50CC0D77/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061823163250299/7A3E3550E4630C1BF03CF91847C63638AB684434/"
-            }
-          ],
-          "commands": [
-            {
-              "name": "Armored Assault",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
-              "pip": 1
-            },
-            {
-              "name": "Doors and Corners",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
-              "pip": 1
-            },
-            {
-              "name": "Somebody Has To Be a Hero",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
-              "pip": 1
-            },
-            {
-              "name": "Keep Them Down",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
-              "pip": 2
-            },
-            {
-              "name": "Surgical Strike",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
-              "pip": 2
-            },
-            {
-              "name": "Tank Shock",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
-              "pip": 2
-            },
-            {
-              "name": "Brothers in Arms",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
-              "pip": 3
-            },
-            {
-              "name": "Man the Guns",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
-              "pip": 3
-            },
-            {
-              "name": "Stealth Team",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861634/154797D1AC62672734DE5D8C69E0FDFA3D852FC3/",
-              "pip": 3
-            }
-          ]
+	"units": {
+		"Empire": {
+			"Commander": [{
+					"name": "Storm Tide Commander",
+					"title": "",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015382/B1EBE08171ABD5A2E0DF0E08439797227473A9DE/",
+					"size": "small",
+					"type": "Trooper",
+					"points": 60,
+					"speed": 2,
+					"upgrades": {
+						"Training": 1,
+						"Gear": 1,
+						"Armament": 1
+					},
+					"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1007061823163250038/32C72D2D0F766BFD34626E6A8944954C50CC0D77/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061823163250299/7A3E3550E4630C1BF03CF91847C63638AB684434/"
+					}],
+					"commands": [{
+							"name": "Armored Assault",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
+							"pip": 1
+						},
+						{
+							"name": "Doors and Corners",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
+							"pip": 1
+						},
+						{
+							"name": "Somebody Has To Be a Hero",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
+							"pip": 1
+						},
+						{
+							"name": "Keep Them Down",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
+							"pip": 2
+						},
+						{
+							"name": "Surgical Strike",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
+							"pip": 2
+						},
+						{
+							"name": "Tank Shock",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
+							"pip": 2
+						},
+						{
+							"name": "Brothers in Arms",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
+							"pip": 3
+						},
+						{
+							"name": "Man the Guns",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
+							"pip": 3
+						},
+						{
+							"name": "Stealth Team",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861634/154797D1AC62672734DE5D8C69E0FDFA3D852FC3/",
+							"pip": 3
+						}
+					]
+				},
+				{
+					"name": "Admiral Gainesly",
+					"title": "Fleet Commander",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1840281566546742818/AE2557630A69D84A2E1F0808395D47B9BD1F88C7/",
+					"size": "huge",
+					"type": "Repuslor Vehicle",
+					"points": 0,
+					"speed": 0,
+					"upgrades": {},
+					"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1666858074795846061/0D8773BEAAAF4E4BA28B6ABDB01A9C1E72B83BD7/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1666858074795846170/75E00D8736BB7FEDCA4E14921E300C50151C29A8/"
+					}],
+					"commands": [{
+						"name": "Hurricane Strike - Rigel IV",
+						"image": "http://cloud-3.steamusercontent.com/ugc/1840281566546730672/39B798FF57F524523BAC5AC85E108E4876E2F5C0/",
+						"pip": 3
+					}]
+				}
+			]
 		},
-		{
-          "name": "Admiral Gainesly",
-          "title": "Fleet Commander",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1840281566546742818/AE2557630A69D84A2E1F0808395D47B9BD1F88C7/",
-          "size": "huge",
-          "type": "Repuslor Vehicle",
-          "points": 0,
-          "speed": 0,
-          "upgrades": {
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1666858074795846061/0D8773BEAAAF4E4BA28B6ABDB01A9C1E72B83BD7/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1666858074795846170/75E00D8736BB7FEDCA4E14921E300C50151C29A8/"
-            }
-          ],
-          "commands": [
-            {
-              "name": "Hurricane Strike - Rigel IV",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1840281566546730672/39B798FF57F524523BAC5AC85E108E4876E2F5C0/",
-              "pip": 3
-            }
-          ]
-        },
-      ]
-    },
-    "Rebel": {
-      "Commander": [
-		{
-          "name": "Storm Tide Commander",
-          "title": "",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015382/B1EBE08171ABD5A2E0DF0E08439797227473A9DE/",
-          "size": "small",
-          "type": "Trooper",
-          "points": 60,
-          "speed": 2,
-          "upgrades": {
-			"Training": 1,
-            "Gear": 1,
-			"Armament": 1
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061823163250038/32C72D2D0F766BFD34626E6A8944954C50CC0D77/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061823163250299/7A3E3550E4630C1BF03CF91847C63638AB684434/"
-            }
-          ],
-          "commands": [
-            {
-              "name": "Armored Assault",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
-              "pip": 1
-            },
-            {
-              "name": "Doors and Corners",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
-              "pip": 1
-            },
-            {
-              "name": "Somebody Has To Be a Hero",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
-              "pip": 1
-            },
-            {
-              "name": "Keep Them Down",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
-              "pip": 2
-            },
-            {
-              "name": "Surgical Strike",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
-              "pip": 2
-            },
-            {
-              "name": "Tank Shock",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
-              "pip": 2
-            },
-            {
-              "name": "Brothers in Arms",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
-              "pip": 3
-            },
-            {
-              "name": "Man the Guns",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
-              "pip": 3
-            },
-            {
-              "name": "Stealth Team",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861634/154797D1AC62672734DE5D8C69E0FDFA3D852FC3/",
-              "pip": 3
-            }
-          ]
-		},
-		{
-          "name": "Admiral Ivanastov",
-          "title": "Fleet Commander",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1840281566546744770/4D3F711899E9FAE8AF302BFCDD345B4C9346B5D9/",
-          "size": "huge",
-          "type": "Repuslor Vehicle",
-          "points": 0,
-          "speed": 0,
-          "upgrades": {
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1666858074795846061/0D8773BEAAAF4E4BA28B6ABDB01A9C1E72B83BD7/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1666858074795846170/75E00D8736BB7FEDCA4E14921E300C50151C29A8/"
-            }
-          ],
-          "commands": [
-            {
-              "name": "Inferno Strike - Rigel IV",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1840281566546744798/879DB03D78414B8CA877ECCB1FBFB8DD054313B3/",
-              "pip": 3
-            }
-          ]
-        },
-      ]
-    }
-  },
-  "upgrades": {
-    "Command": [
-      { /* Upgrade with Command Requirement */ }
-    ],
-    "Training": [
-      { /* Upgrade with Training Requirement */ },
-      { /* Upgrade with Training Requirement */ }
-    ]
-  },
-  "commands": {
-    "Generic": [
-      { /* Generic Command Card (For All Factions) */ }
-    ],
-    "Rebel": [
-      { /* Generic Command Card (For Rebels) */ }
-    ]
-  },
-  "battlefield": {
-	"standard": {
-	"objective": [
-		{
-		  "name": "Strategic Strike on Rigel IV",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865566152284/34FB45C5D924F9975C35E307B36C42AD2F8153DB/",
-          "type": "horizontal",
-          "additionalObjects": [
-            "Objective Token",
-            "Objective Token",
-            "Objective Token",
-            "Objective Token",
-            "Objective Token",
-            "Objective Token",
-		    "Objective Token",
-		    "Objective Token",
-		    "Objective Token",
-		    "Objective Token",
-		    "Objective Token",
-		    "Objective Token"
+		"Rebel": {
+			"Commander": [{
+					"name": "Storm Tide Commander",
+					"title": "",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015382/B1EBE08171ABD5A2E0DF0E08439797227473A9DE/",
+					"size": "small",
+					"type": "Trooper",
+					"points": 60,
+					"speed": 2,
+					"upgrades": {
+						"Training": 1,
+						"Gear": 1,
+						"Armament": 1
+					},
+					"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1007061823163250038/32C72D2D0F766BFD34626E6A8944954C50CC0D77/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061823163250299/7A3E3550E4630C1BF03CF91847C63638AB684434/"
+					}],
+					"commands": [{
+							"name": "Armored Assault",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
+							"pip": 1
+						},
+						{
+							"name": "Doors and Corners",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
+							"pip": 1
+						},
+						{
+							"name": "Somebody Has To Be a Hero",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1801997291003015346/B59E1BB825A6C5EF72E3426386044890E1741207/",
+							"pip": 1
+						},
+						{
+							"name": "Keep Them Down",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
+							"pip": 2
+						},
+						{
+							"name": "Surgical Strike",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
+							"pip": 2
+						},
+						{
+							"name": "Tank Shock",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
+							"pip": 2
+						},
+						{
+							"name": "Brothers in Arms",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
+							"pip": 3
+						},
+						{
+							"name": "Man the Guns",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861608/240161FAB00077761781A9DBD6C842D2FAD0D99D/",
+							"pip": 3
+						},
+						{
+							"name": "Stealth Team",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1754708429811861634/154797D1AC62672734DE5D8C69E0FDFA3D852FC3/",
+							"pip": 3
+						}
+					]
+				},
+				{
+					"name": "Admiral Ivanastov",
+					"title": "Fleet Commander",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1840281566546744770/4D3F711899E9FAE8AF302BFCDD345B4C9346B5D9/",
+					"size": "huge",
+					"type": "Repuslor Vehicle",
+					"points": 0,
+					"speed": 0,
+					"upgrades": {},
+					"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1666858074795846061/0D8773BEAAAF4E4BA28B6ABDB01A9C1E72B83BD7/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1666858074795846170/75E00D8736BB7FEDCA4E14921E300C50151C29A8/"
+					}],
+					"commands": [{
+						"name": "Inferno Strike - Rigel IV",
+						"image": "http://cloud-3.steamusercontent.com/ugc/1840281566546744798/879DB03D78414B8CA877ECCB1FBFB8DD054313B3/",
+						"pip": 3
+					}]
+				}
+			]
+		}
+	},
+	"upgrades": {
+		"Command": [{}],
+		"Training": [{},
+			{}
+		]
+	},
+	"commands": {
+		"Generic": [{}],
+		"Rebel": [{}]
+	},
+	"battlefield": {
+		"standard": {
+			"objective": [{
+				"name": "Strategic Strike on Rigel IV",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1680393865566152284/34FB45C5D924F9975C35E307B36C42AD2F8153DB/",
+				"type": "horizontal",
+				"additionalObjects": [
+					"Objective Token",
+					"Objective Token",
+					"Objective Token",
+					"Objective Token",
+					"Objective Token",
+					"Objective Token",
+					"Objective Token",
+					"Objective Token",
+					"Objective Token",
+					"Objective Token",
+					"Objective Token",
+					"Objective Token"
+				]
+			}],
+			"deployment": [{
+				"name": "Major Incursion",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1680393865566151907/AA1402B5634FB543727CF2659B03AA7BC296EA2D/",
+				"type": "horizontal",
+				"zone": [
+					["r", "r", "r", "r", " ", " ", " ", " ", "b", "b", "b", "b"],
+					["r", "r", "r", " ", " ", " ", " ", " ", " ", "b", "b", "b"],
+					["r", "r", " ", " ", " ", " ", " ", " ", " ", " ", "b", "b"],
+					["r", "r", " ", " ", " ", " ", " ", " ", " ", " ", "b", "b"],
+					["r", "r", "r", " ", " ", " ", " ", " ", " ", "b", "b", "b"],
+					["r", "r", "r", "r", " ", " ", " ", " ", "b", "b", "b", "b"]
+				]
+			}],
+			"condition": [{
+					"name": "Evacuation - Part 1",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1680393865566151174/7BF21B789BA2A715EE474286DBB98A30D7FED51A/",
+					"type": "horizontal",
+					"additionalObjects": [
+						"Condition Token",
+						"Condition Token",
+						"Condition Token",
+						"Condition Token",
+						"Condition Token",
+						"Condition Token",
+						"Condition Token",
+						"Condition Token",
+						"Condition Token",
+						"Condition Token",
+						"Condition Token",
+						"Condition Token"
+					]
+				},
+				{
+					"name": "Evacuation - Part 2",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1680393865566151174/7BF21B789BA2A715EE474286DBB98A30D7FED51A/",
+					"type": "horizontal"
+				}
+			]
+		}
 	}
-	],
-    "deployment": [
-        {
-          "name": "Major Incursion",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865566151907/AA1402B5634FB543727CF2659B03AA7BC296EA2D/",
-          "type": "horizontal",
-          "zone": [
-            ["r", "r", "r", "r", " ", " ", " ", " ", "b", "b", "b", "b"],
-            ["r", "r", "r", " ", " ", " ", " ", " ", " ", "b", "b", "b"],
-            ["r", "r", " ", " ", " ", " ", " ", " ", " ", " ", "b", "b"],
-            ["r", "r", " ", " ", " ", " ", " ", " ", " ", " ", "b", "b"],
-            ["r", "r", "r", " ", " ", " ", " ", " ", " ", "b", "b", "b"],
-            ["r", "r", "r", "r", " ", " ", " ", " ", "b", "b", "b", "b"]
-          ]
-        }
-	],
-    "condition": [
-	    {
-          "name": "Evacuation - Part 1",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865566151174/7BF21B789BA2A715EE474286DBB98A30D7FED51A/",
-          "type": "horizontal",
-          "additionalObjects": [
-            "Condition Token",
-            "Condition Token",
-            "Condition Token",
-            "Condition Token",
-			"Condition Token",
-			"Condition Token",
-            "Condition Token",
-            "Condition Token",
-            "Condition Token",
-            "Condition Token",
-			"Condition Token",
-			"Condition Token"
-          ]
-        },
-	    {
-          "name": "Evacuation - Part 2",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865566151174/7BF21B789BA2A715EE474286DBB98A30D7FED51A/",
-          "type": "horizontal",
-        }
-	]
-  }
 }
